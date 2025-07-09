@@ -1,0 +1,14 @@
+# Ignore data and output directories (containing large or private files)
+data/
+output/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
