@@ -1,9 +1,5 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
-diff --git a/README.md b/README.md
-index d3e07adb974ede1ab60cddc259599d3e0fa5f7b6..1fe167be6ec52224ff6d0756f4dc061a1e144558 100644
---- a/README.md
-+++ b/README.md
-@@ Develop a pipeline for transforming complex deep research documents into intuitive graph insights
+### Pipeline for transforming complex deep research documents into intuitive graph insights
+
  ## Pipeline Steps
  
  1. **Deep Research Chat**: Upload your research notes and documents to `data/`.
