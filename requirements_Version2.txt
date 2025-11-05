@@ -12,6 +12,6 @@ en_core_sci_md @ https://github.com/allenai/scispacy-models/releases/download/v0
 openai
 pydantic
 networkx
+streamlit
 
 # Add more as you build out your agents
-streamlit
