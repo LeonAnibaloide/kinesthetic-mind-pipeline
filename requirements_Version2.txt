@@ -14,3 +14,4 @@ pydantic
 networkx
 
 # Add more as you build out your agents
+streamlit

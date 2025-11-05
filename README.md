@@ -32,3 +32,5 @@ pip install -r requirements.txt
 
 - Do **not** upload private or copyrighted research files.
 - The `data/` and `output/` folders are gitignored for privacy and size.
+## Web App
+Run `streamlit run webapp.py` to launch a simple interface for uploading documents and generating CSV outputs.
